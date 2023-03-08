@@ -1,0 +1,43 @@
+{
+  "items": {
+    "0": {
+      "id": 0,
+      "type": "text",
+      "text": "Start typing or grab a file",
+      "position": [
+        2400,
+        2450
+      ],
+      "dimensions": [
+        200,
+        100
+      ]
+    },
+    "1": {
+      "type": "text",
+      "text": "Hello World",
+      "position": [
+        2400,
+        2450
+      ],
+      "dimensions": [
+        200,
+        100
+      ],
+      "id": 1
+    },
+    "2": {
+      "type": "text",
+      "text": "Hello World",
+      "position": [
+        2400,
+        2450
+      ],
+      "dimensions": [
+        200,
+        100
+      ],
+      "id": 2
+    }
+  }
+}
